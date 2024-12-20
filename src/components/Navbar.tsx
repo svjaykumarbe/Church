@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Church className="h-8 w-8 text-indigo-600" />
-            <span className="ml-2 text-xl font-semibold text-gray-900">Grace Community Church</span>
+            <span className="ml-2 text-xl font-semibold text-gray-900">Zoe Community Church</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
